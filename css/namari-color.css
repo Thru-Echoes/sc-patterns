@@ -72,6 +72,17 @@ a:hover, #header.nav-solid nav a:hover {
     border-color: #d2b356;
 }
 
+#banner-logo {
+    padding-left: 10%;
+}
+
+#navigation-logo {
+    padding-right: 10%;
+}
+
+#home-li {
+    padding-left: 25%;
+}
 
 
 /*------------------------------------------------------------------------------------------*/
@@ -129,14 +140,10 @@ a:hover, #header.nav-solid nav a:hover {
 /* Banner Background and Text Colors */
 
 #banner {
-    /*background: url("../images/banner-images/banner-image-1.jpg") no-repeat center top;*/
-    /*background: url("../images/banner-images/banner-invert.jpg") no-repeat center top;*/
-    /*background: url("../images/banner-images/banner-glitch.jpg") no-repeat center top;*/
+    background: url("../images/banner-images/banner-glitch.jpg") no-repeat center top;
     /* ----- White background ----- */
     /*background: url("../images/banner-images/banner-white.jpg") no-repeat center top;*/
-    /*background: url("../images/banner-images/banner-white2.jpg") no-repeat center top;*/
-    /*background: url("../images/banner-images/banner-white3.jpg") no-repeat center top;*/
-    background: url("../images/banner-images/banner-white4.jpg") no-repeat center top;
+    /*background: url("../images/banner-images/banner-white4.jpg") no-repeat center top;*/
     background-size:cover;
 }
 
@@ -182,7 +189,7 @@ body {
 
 #banner h1 {
     font-family: 'Open Sans', sans-serif, Arial, Helvetica;
-    font-size:62px;
+    font-size:60px;
     line-height:60px;
     font-weight:800;
     color:#111;
