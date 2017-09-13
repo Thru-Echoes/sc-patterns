@@ -130,15 +130,15 @@ a:hover, #header.nav-solid nav a:hover {
 
 #banner {
     /*background: url("../images/banner-images/banner-image-1.jpg") no-repeat center top;*/
-    background: url("../images/banner-images/banner-moon-light.png") no-repeat center top;
-    /*background: url("../images/banner-images/banner-moon3.png") no-repeat center top;*/
+    /*background: url("../images/banner-images/banner-moon-light.png") no-repeat center top;*/
+    background: rgba(255, 255, 255, 0.9); no-repeat center top;
     background-size:cover;
 }
 
 #publications {
     /*background: url("../images/banner-images/banner-image-1.jpg") no-repeat center top;*/
-    /*background: url("../images/banner-images/banner-invert.jpg") no-repeat center top;*/
-    background: url("../images/banner-images/banner-moon-dark.png") no-repeat center top;
+    /*background: url("../images/banner-images/banner-moon-dark.png") no-repeat center top;*/
+    background: rgba(0, 0, 0, 0.9); no-repeat center top;
     background-size:cover;
 }
 
@@ -359,4 +359,11 @@ h6 {
 
 #landing-footer i {
     color:#999;
+}
+
+#pink-section {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 15px;
+    padding-right: 15px;
 }
