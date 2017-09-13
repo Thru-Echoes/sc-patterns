@@ -129,16 +129,16 @@ a:hover, #header.nav-solid nav a:hover {
 /* Banner Background and Text Colors */
 
 #banner {
-    /*background: url("../images/banner-images/banner-image-1.jpg") no-repeat center top;*/
+    background: url("../images/banner-images/back_light.jpg") no-repeat center top;
     /*background: url("../images/banner-images/banner-moon-light.png") no-repeat center top;*/
-    background: rgba(255, 255, 255, 0.9); no-repeat center top;
+    /*background: rgba(255, 255, 255, 0.9); no-repeat center top;*/
     background-size:cover;
 }
 
 #publications {
-    /*background: url("../images/banner-images/banner-image-1.jpg") no-repeat center top;*/
+    background: url("../images/banner-images/back_dark.jpg") no-repeat center top;
     /*background: url("../images/banner-images/banner-moon-dark.png") no-repeat center top;*/
-    background: rgba(0, 0, 0, 0.9); no-repeat center top;
+    /*background: rgba(0, 0, 0, 0.9); no-repeat center top;*/
     background-size:cover;
 }
 
